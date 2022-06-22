@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mnItem"
+        android:icon="@drawable/ic_settings"
+        android:title="Configurações"
+        app:showAsAction="ifRoom" >
+
+        <menu>
+            <item
+                android:id="@+id/miBasico"
+                android:title="Básico"
+                app:showAsAction="ifRoom" />
+
+            <item
+                android:id="@+id/miAvancado"
+                android:title="Avançado"
+                app:showAsAction="ifRoom" />
+        </menu>
+    </item>
+
+</menu>

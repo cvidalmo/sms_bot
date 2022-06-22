@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">La Cerbo SMS</string>
+    <string name="descricao_opcoes">Selecione por qual CHIP vai enviar os SMSs</string>
+    <string name="marque_tipo">Marque para quais tipos vai ser enviado SMS</string>
+    <string name="chip1">SIM 1</string>
+    <string name="chip2">SIM 2</string>
+    <string name="chip0">AMBOS</string>
+    <string name="ativar">ATIVAR</string>
+    <string name="desativar">DESATIVAR</string>
+    <string name="sair">SAIR</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="reiniciar_acordar">Reiniciar/Acordar</string>
+    <string name="usuarios">Usuários</string>
+    <string name="admin">Administrdores</string>
+    <string name="txtConfig">CONFIGURAÇÕES\nBÁSICA</string>
+    <string name="txtNumCHIPs">Digite os seus números de cada CHIP</string>
+</resources>
